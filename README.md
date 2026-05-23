@@ -1,5 +1,23 @@
 # ResuMatch — Hybrid Resume × Job Description Matcher
 
+> Final-year project · BSc Computer Science with AI · University of Nottingham Malaysia · 2026
+
+## Results
+
+| Metric | Rule-only baseline | Full pipeline |
+|---|---|---|
+| MAE | 10.27 pp | **4.14 pp** |
+| RMSE | — | **5.86 pp** |
+| Spearman ρ | — | **0.947** |
+| Within-band accuracy (±10 pp) | 56.1% | **90.9%** |
+
+## Tech stack
+**Backend:** Python · Django · scikit-learn · sentence-transformers · PyTorch  
+**Frontend:** React · Vite · TypeScript · Tailwind CSS  
+**ML:** Gradient Boosted Regressor · all-MiniLM-L6-v2 bi-encoder  
+
+---
+
 Final-year project for COMP3025 (UNMC). A Django + React web application
 that scores how well a resume matches a job description, combining a
 deterministic rule-based engine with three lightweight ML augmentations:
