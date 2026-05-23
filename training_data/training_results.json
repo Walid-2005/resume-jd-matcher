@@ -1,0 +1,3362 @@
+{
+  "global_frequencies": {
+    "computer vision": 20,
+    "deep learning": 20,
+    "matplotlib": 8,
+    "natural language processing": 8,
+    "regression": 65,
+    "node.js": 13,
+    "python": 176,
+    "flask": 16,
+    "knn": 8,
+    "qa": 70,
+    "java": 273,
+    "tableau": 29,
+    "accounting": 38,
+    "elasticsearch": 4,
+    "angular": 75,
+    "chatbot": 4,
+    "javascript": 151,
+    "pandas": 20,
+    "jquery": 115,
+    "plotly": 4,
+    "svm": 8,
+    "hbase": 28,
+    "numpy": 44,
+    "docker": 12,
+    "classification": 22,
+    "data science": 55,
+    "kafka": 4,
+    "research": 109,
+    "word": 87,
+    "sql": 299,
+    "html": 185,
+    "scikit-learn": 8,
+    "nltk": 8,
+    "css": 115,
+    "bootstrap": 65,
+    "d3.js": 4,
+    "git": 56,
+    "dimensionality reduction": 8,
+    "decision trees": 4,
+    "scipy": 8,
+    "machine learning": 56,
+    "mysql": 216,
+    "time series": 12,
+    "random forest": 10,
+    "spacy": 4,
+    "cassandra": 10,
+    "forecasting": 25,
+    "sklearn": 8,
+    "keras": 8,
+    "github": 29,
+    "linkedin": 4,
+    "less": 267,
+    "aws": 75,
+    "matlab": 40,
+    "ubuntu": 58,
+    "labview": 4,
+    "excel": 129,
+    "data analysis": 12,
+    "django": 44,
+    "debian": 4,
+    "jupyter": 10,
+    "kali linux": 4,
+    "linux": 143,
+    "windows": 288,
+    "sap": 55,
+    "sql server": 119,
+    "swift": 10,
+    "windows server": 27,
+    "t-sql": 5,
+    "nlp": 16,
+    "crm": 55,
+    "lstm": 8,
+    "communication": 217,
+    "etl": 60,
+    "social media": 24,
+    "english": 107,
+    "powerpoint": 55,
+    "ms office": 112,
+    "decision making": 34,
+    "data visualization": 8,
+    "robotics": 12,
+    "innovation": 18,
+    "statistics": 16,
+    "neural networks": 8,
+    "artificial intelligence": 4,
+    "gmail": 4,
+    "training": 182,
+    "problem solving": 64,
+    "hindi": 61,
+    "gcp": 4,
+    "tensorflow": 12,
+    "google cloud": 4,
+    "seaborn": 4,
+    "clustering": 16,
+    "rnn": 8,
+    "oracle": 175,
+    "selenium": 44,
+    "hive": 46,
+    "leadership": 67,
+    "ips": 9,
+    "apache": 75,
+    "hadoop": 46,
+    "data mining": 10,
+    "twitter": 4,
+    "spark": 46,
+    "pyspark": 10,
+    "payroll": 18,
+    "compliance": 72,
+    "scrum": 30,
+    "adaptability": 12,
+    "llm": 4,
+    "microsoft office": 42,
+    "writing": 146,
+    "multitasking": 15,
+    "pharmacy": 6,
+    "negotiation": 22,
+    "presentation": 63,
+    "accessibility": 7,
+    "french": 6,
+    "mentoring": 19,
+    "sass": 18,
+    "go": 46,
+    "php": 53,
+    "codeigniter": 9,
+    "user interface": 9,
+    "adobe photoshop": 9,
+    "cnc": 17,
+    "agile": 61,
+    "adobe illustrator": 9,
+    "cad": 16,
+    "mechanical design": 24,
+    "customer service": 33,
+    "assembly": 28,
+    "autocad": 52,
+    "solidworks": 16,
+    "3d printing": 9,
+    "catia": 20,
+    "salesforce": 16,
+    "client relations": 8,
+    "analytical skills": 49,
+    "thai": 32,
+    "swedish": 5,
+    "market research": 5,
+    "time management": 36,
+    "public speaking": 13,
+    "conflict resolution": 6,
+    "clinical research": 5,
+    "risk assessment": 10,
+    "manual testing": 28,
+    "postgresql": 39,
+    "spring": 81,
+    "postman": 16,
+    "pl/sql": 30,
+    "collaboration": 33,
+    "teams": 120,
+    "svn": 38,
+    "shell": 109,
+    "xcode": 6,
+    "android studio": 6,
+    "jenkins": 37,
+    "android": 41,
+    "unit testing": 80,
+    "mssql": 15,
+    "ionic": 12,
+    "switching": 26,
+    "network security": 26,
+    "ccna": 11,
+    "visual basic": 7,
+    "routing": 34,
+    "mongodb": 36,
+    "facebook": 6,
+    "spring boot": 6,
+    "self-motivated": 16,
+    "centos": 15,
+    "integration testing": 40,
+    "german": 14,
+    "unix": 93,
+    "jira": 49,
+    "ios": 12,
+    "prototyping": 14,
+    "waterfall": 6,
+    "version control": 33,
+    "risk management": 16,
+    "quality assurance": 8,
+    "data warehousing": 12,
+    "sso": 4,
+    "sharepoint": 16,
+    "power bi": 4,
+    "lean": 4,
+    "ids": 9,
+    "prince2": 4,
+    "project management": 62,
+    "plc": 26,
+    "scada": 18,
+    "hmi": 12,
+    "electrical design": 8,
+    "regression testing": 22,
+    "api testing": 4,
+    "restful": 18,
+    "testng": 10,
+    "tdd": 8,
+    "test driven development": 12,
+    "performance testing": 14,
+    "sprint planning": 8,
+    "ldap": 11,
+    "vpn": 29,
+    "kanban": 8,
+    "test automation": 9,
+    "tcp/ip": 8,
+    "quality control": 18,
+    "backlog grooming": 8,
+    "interpersonal skills": 29,
+    "critical thinking": 8,
+    "triage": 2,
+    "transformer": 32,
+    "budgeting": 17,
+    "six sigma": 10,
+    "sage": 10,
+    "express": 27,
+    "teamwork": 10,
+    "fedora": 8,
+    "rest api": 16,
+    "sqlite": 8,
+    "opencv": 8,
+    "soap": 16,
+    "cloudformation": 17,
+    "lambda": 17,
+    "ec2": 21,
+    "puppet": 17,
+    "azure": 27,
+    "encryption": 17,
+    "bitbucket": 18,
+    "ansible": 17,
+    "safe": 29,
+    "ci/cd": 18,
+    "vb.net": 1,
+    "asp.net": 21,
+    "mobile development": 1,
+    "security audit": 4,
+    "information security": 1,
+    "cisco": 21,
+    ".net": 21,
+    "laravel": 1,
+    "nursing": 1,
+    "cucumber": 1,
+    "bdd": 1,
+    "confluence": 11,
+    "lan": 20,
+    "firewall": 25,
+    "ssl": 15,
+    "dns": 10,
+    "juniper": 10,
+    "dhcp": 10,
+    "sem": 5,
+    "ccnp": 5,
+    "creativity": 15,
+    "wan": 15,
+    "network administration": 5,
+    "siem": 5,
+    "outlook": 15,
+    "rhel": 8,
+    "organizational skills": 10,
+    "strategic thinking": 10,
+    "auditing": 16,
+    "ms project": 14,
+    "mariadb": 3,
+    "s3": 11,
+    "pig": 30,
+    "scala": 42,
+    "data pipeline": 6,
+    "red hat": 6,
+    "redshift": 8,
+    "typescript": 4,
+    "patient care": 4,
+    "blockchain": 40,
+    "smart contracts": 16,
+    "ethereum": 32,
+    "golang": 8,
+    "nodejs": 16,
+    "solidity": 24,
+    "react": 16,
+    "hyperledger": 16,
+    "transformers": 10,
+    "pcb design": 10
+  },
+  "role_templates": {
+    "Data Science": [
+      {
+        "skill": "python",
+        "count": 40,
+        "frequency": 1.0
+      },
+      {
+        "skill": "data science",
+        "count": 36,
+        "frequency": 0.9
+      },
+      {
+        "skill": "machine learning",
+        "count": 36,
+        "frequency": 0.9
+      },
+      {
+        "skill": "less",
+        "count": 28,
+        "frequency": 0.7
+      },
+      {
+        "skill": "deep learning",
+        "count": 20,
+        "frequency": 0.5
+      },
+      {
+        "skill": "sql",
+        "count": 20,
+        "frequency": 0.5
+      },
+      {
+        "skill": "java",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "tableau",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "mysql",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "nlp",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "regression",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "pandas",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "numpy",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "classification",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "research",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "html",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "time series",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "excel",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "data analysis",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "windows",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "communication",
+        "count": 12,
+        "frequency": 0.3
+      },
+      {
+        "skill": "matplotlib",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "natural language processing",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "flask",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "knn",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "qa",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "svm",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "word",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "scikit-learn",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "nltk",
+        "count": 8,
+        "frequency": 0.2
+      }
+    ],
+    "HR": [
+      {
+        "skill": "less",
+        "count": 12,
+        "frequency": 0.27
+      },
+      {
+        "skill": "communication",
+        "count": 12,
+        "frequency": 0.27
+      },
+      {
+        "skill": "training",
+        "count": 8,
+        "frequency": 0.18
+      },
+      {
+        "skill": "ms office",
+        "count": 8,
+        "frequency": 0.18
+      }
+    ],
+    "Advocate": [
+      {
+        "skill": "less",
+        "count": 8,
+        "frequency": 0.4
+      },
+      {
+        "skill": "english",
+        "count": 6,
+        "frequency": 0.3
+      },
+      {
+        "skill": "windows",
+        "count": 4,
+        "frequency": 0.2
+      },
+      {
+        "skill": "llm",
+        "count": 4,
+        "frequency": 0.2
+      },
+      {
+        "skill": "word",
+        "count": 4,
+        "frequency": 0.2
+      },
+      {
+        "skill": "research",
+        "count": 4,
+        "frequency": 0.2
+      },
+      {
+        "skill": "hindi",
+        "count": 4,
+        "frequency": 0.2
+      },
+      {
+        "skill": "writing",
+        "count": 4,
+        "frequency": 0.2
+      }
+    ],
+    "Arts": [
+      {
+        "skill": "english",
+        "count": 12,
+        "frequency": 0.33
+      },
+      {
+        "skill": "communication",
+        "count": 12,
+        "frequency": 0.33
+      },
+      {
+        "skill": "windows",
+        "count": 12,
+        "frequency": 0.33
+      },
+      {
+        "skill": "research",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "pharmacy",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "hindi",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "ms office",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "negotiation",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "presentation",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "accessibility",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "social media",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "french",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "mentoring",
+        "count": 6,
+        "frequency": 0.17
+      },
+      {
+        "skill": "adaptability",
+        "count": 6,
+        "frequency": 0.17
+      }
+    ],
+    "Web Designing": [
+      {
+        "skill": "jquery",
+        "count": 36,
+        "frequency": 0.8
+      },
+      {
+        "skill": "bootstrap",
+        "count": 36,
+        "frequency": 0.8
+      },
+      {
+        "skill": "javascript",
+        "count": 36,
+        "frequency": 0.8
+      },
+      {
+        "skill": "sass",
+        "count": 18,
+        "frequency": 0.4
+      },
+      {
+        "skill": "less",
+        "count": 18,
+        "frequency": 0.4
+      },
+      {
+        "skill": "angular",
+        "count": 18,
+        "frequency": 0.4
+      },
+      {
+        "skill": "java",
+        "count": 18,
+        "frequency": 0.4
+      },
+      {
+        "skill": "php",
+        "count": 18,
+        "frequency": 0.4
+      },
+      {
+        "skill": "windows",
+        "count": 18,
+        "frequency": 0.4
+      },
+      {
+        "skill": "html",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "sql",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "go",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "css",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "mysql",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "codeigniter",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "apache",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "user interface",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "adobe photoshop",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "cnc",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "agile",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "adobe illustrator",
+        "count": 9,
+        "frequency": 0.2
+      },
+      {
+        "skill": "presentation",
+        "count": 9,
+        "frequency": 0.2
+      }
+    ],
+    "Mechanical Engineer": [
+      {
+        "skill": "training",
+        "count": 24,
+        "frequency": 0.6
+      },
+      {
+        "skill": "mechanical design",
+        "count": 24,
+        "frequency": 0.6
+      },
+      {
+        "skill": "microsoft office",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "cad",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "research",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "hindi",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "autocad",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "solidworks",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "catia",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "customer service",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "less",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "negotiation",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "excel",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "word",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "cnc",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "english",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "assembly",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "3d printing",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "ms office",
+        "count": 8,
+        "frequency": 0.2
+      }
+    ],
+    "Sales": [
+      {
+        "skill": "ms office",
+        "count": 24,
+        "frequency": 0.6
+      },
+      {
+        "skill": "communication",
+        "count": 24,
+        "frequency": 0.6
+      },
+      {
+        "skill": "presentation",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "salesforce",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "less",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "training",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "powerpoint",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "microsoft office",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "excel",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "client relations",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "analytical skills",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "word",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "sql server",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "payroll",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "sql",
+        "count": 8,
+        "frequency": 0.2
+      }
+    ],
+    "Health and fitness": [
+      {
+        "skill": "training",
+        "count": 15,
+        "frequency": 0.5
+      },
+      {
+        "skill": "communication",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "research",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "writing",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "thai",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "swedish",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "market research",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "powerpoint",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "customer service",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "compliance",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "excel",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "windows",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "word",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "time management",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "english",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "public speaking",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "leadership",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "conflict resolution",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "presentation",
+        "count": 5,
+        "frequency": 0.17
+      },
+      {
+        "skill": "clinical research",
+        "count": 5,
+        "frequency": 0.17
+      }
+    ],
+    "Civil Engineer": [
+      {
+        "skill": "autocad",
+        "count": 16,
+        "frequency": 0.67
+      },
+      {
+        "skill": "ms office",
+        "count": 8,
+        "frequency": 0.33
+      },
+      {
+        "skill": "qa",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "risk assessment",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "compliance",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "training",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "excel",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "catia",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "word",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "windows",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "communication",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "hindi",
+        "count": 4,
+        "frequency": 0.17
+      }
+    ],
+    "Java Developer": [
+      {
+        "skill": "java",
+        "count": 84,
+        "frequency": 1.0
+      },
+      {
+        "skill": "spring",
+        "count": 54,
+        "frequency": 0.64
+      },
+      {
+        "skill": "javascript",
+        "count": 42,
+        "frequency": 0.5
+      },
+      {
+        "skill": "oracle",
+        "count": 42,
+        "frequency": 0.5
+      },
+      {
+        "skill": "less",
+        "count": 42,
+        "frequency": 0.5
+      },
+      {
+        "skill": "sql",
+        "count": 36,
+        "frequency": 0.43
+      },
+      {
+        "skill": "mysql",
+        "count": 36,
+        "frequency": 0.43
+      },
+      {
+        "skill": "windows",
+        "count": 30,
+        "frequency": 0.36
+      },
+      {
+        "skill": "html",
+        "count": 30,
+        "frequency": 0.36
+      },
+      {
+        "skill": "linux",
+        "count": 24,
+        "frequency": 0.29
+      },
+      {
+        "skill": "angular",
+        "count": 24,
+        "frequency": 0.29
+      },
+      {
+        "skill": "css",
+        "count": 24,
+        "frequency": 0.29
+      },
+      {
+        "skill": "jquery",
+        "count": 24,
+        "frequency": 0.29
+      }
+    ],
+    "Business Analyst": [
+      {
+        "skill": "excel",
+        "count": 24,
+        "frequency": 0.86
+      },
+      {
+        "skill": "powerpoint",
+        "count": 18,
+        "frequency": 0.64
+      },
+      {
+        "skill": "training",
+        "count": 14,
+        "frequency": 0.5
+      },
+      {
+        "skill": "regression",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "writing",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "java",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "communication",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "html",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "windows",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "research",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "word",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "teams",
+        "count": 8,
+        "frequency": 0.29
+      },
+      {
+        "skill": "sql",
+        "count": 8,
+        "frequency": 0.29
+      },
+      {
+        "skill": "autocad",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "ubuntu",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "german",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "unix",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "jira",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "problem solving",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "crm",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "javascript",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "risk assessment",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "svn",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "less",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "linux",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "microsoft office",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "scrum",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "qa",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "android",
+        "count": 6,
+        "frequency": 0.21
+      },
+      {
+        "skill": "presentation",
+        "count": 6,
+        "frequency": 0.21
+      }
+    ],
+    "SAP Developer": [
+      {
+        "skill": "sap",
+        "count": 24,
+        "frequency": 1.0
+      },
+      {
+        "skill": "sql",
+        "count": 12,
+        "frequency": 0.5
+      },
+      {
+        "skill": "teams",
+        "count": 8,
+        "frequency": 0.33
+      },
+      {
+        "skill": "unit testing",
+        "count": 8,
+        "frequency": 0.33
+      },
+      {
+        "skill": "java",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "etl",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "qa",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "data warehousing",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "less",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "sso",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "windows",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "python",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "apache",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "oracle",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "presentation",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "go",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "sharepoint",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "power bi",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "writing",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "lean",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "compliance",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "excel",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "ids",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "training",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "communication",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "prince2",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "project management",
+        "count": 4,
+        "frequency": 0.17
+      },
+      {
+        "skill": "leadership",
+        "count": 4,
+        "frequency": 0.17
+      }
+    ],
+    "Automation Testing": [
+      {
+        "skill": "selenium",
+        "count": 24,
+        "frequency": 0.92
+      },
+      {
+        "skill": "regression",
+        "count": 20,
+        "frequency": 0.77
+      },
+      {
+        "skill": "integration testing",
+        "count": 18,
+        "frequency": 0.69
+      },
+      {
+        "skill": "windows",
+        "count": 14,
+        "frequency": 0.54
+      },
+      {
+        "skill": "regression testing",
+        "count": 12,
+        "frequency": 0.46
+      },
+      {
+        "skill": "sql",
+        "count": 12,
+        "frequency": 0.46
+      },
+      {
+        "skill": "html",
+        "count": 12,
+        "frequency": 0.46
+      },
+      {
+        "skill": "jira",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "scrum",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "training",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "javascript",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "svn",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "jenkins",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "testng",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "qa",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "sql server",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "oracle",
+        "count": 10,
+        "frequency": 0.38
+      },
+      {
+        "skill": "tdd",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "python",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "test driven development",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "performance testing",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "sprint planning",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "ldap",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "vpn",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "shell",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "kanban",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "linux",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "test automation",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "tcp/ip",
+        "count": 8,
+        "frequency": 0.31
+      },
+      {
+        "skill": "mysql",
+        "count": 8,
+        "frequency": 0.31
+      }
+    ],
+    "Electrical Engineering": [
+      {
+        "skill": "autocad",
+        "count": 12,
+        "frequency": 0.4
+      },
+      {
+        "skill": "communication",
+        "count": 12,
+        "frequency": 0.4
+      },
+      {
+        "skill": "transformer",
+        "count": 12,
+        "frequency": 0.4
+      },
+      {
+        "skill": "plc",
+        "count": 12,
+        "frequency": 0.4
+      },
+      {
+        "skill": "problem solving",
+        "count": 12,
+        "frequency": 0.4
+      },
+      {
+        "skill": "training",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "sap",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "interpersonal skills",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "english",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "shell",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "project management",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "classification",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "negotiation",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "innovation",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "electrical design",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "leadership",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "budgeting",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "less",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "scada",
+        "count": 6,
+        "frequency": 0.2
+      },
+      {
+        "skill": "statistics",
+        "count": 6,
+        "frequency": 0.2
+      }
+    ],
+    "Operations Manager": [
+      {
+        "skill": "training",
+        "count": 20,
+        "frequency": 0.5
+      },
+      {
+        "skill": "project management",
+        "count": 20,
+        "frequency": 0.5
+      },
+      {
+        "skill": "compliance",
+        "count": 20,
+        "frequency": 0.5
+      },
+      {
+        "skill": "teams",
+        "count": 20,
+        "frequency": 0.5
+      },
+      {
+        "skill": "communication",
+        "count": 20,
+        "frequency": 0.5
+      },
+      {
+        "skill": "customer service",
+        "count": 20,
+        "frequency": 0.5
+      },
+      {
+        "skill": "research",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "go",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "sql server",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "less",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "six sigma",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "crm",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "sql",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "mentoring",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "decision making",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "time management",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "interpersonal skills",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "leadership",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "problem solving",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "analytical skills",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "accounting",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "ms office",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "sage",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "express",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "sap",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "thai",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "scada",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "shell",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "hmi",
+        "count": 10,
+        "frequency": 0.25
+      },
+      {
+        "skill": "plc",
+        "count": 10,
+        "frequency": 0.25
+      }
+    ],
+    "Python Developer": [
+      {
+        "skill": "python",
+        "count": 48,
+        "frequency": 1.0
+      },
+      {
+        "skill": "mysql",
+        "count": 40,
+        "frequency": 0.83
+      },
+      {
+        "skill": "django",
+        "count": 32,
+        "frequency": 0.67
+      },
+      {
+        "skill": "numpy",
+        "count": 32,
+        "frequency": 0.67
+      },
+      {
+        "skill": "less",
+        "count": 24,
+        "frequency": 0.5
+      },
+      {
+        "skill": "html",
+        "count": 24,
+        "frequency": 0.5
+      },
+      {
+        "skill": "git",
+        "count": 24,
+        "frequency": 0.5
+      },
+      {
+        "skill": "mongodb",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "training",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "java",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "communication",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "restful",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "css",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "agile",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "windows",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "unit testing",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "rest api",
+        "count": 16,
+        "frequency": 0.33
+      },
+      {
+        "skill": "flask",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "german",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "angular",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "postgresql",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "data science",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "sql",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "research",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "fedora",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "ubuntu",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "tensorflow",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "scrum",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "postman",
+        "count": 8,
+        "frequency": 0.17
+      },
+      {
+        "skill": "github",
+        "count": 8,
+        "frequency": 0.17
+      }
+    ],
+    "DevOps Engineer": [
+      {
+        "skill": "sql",
+        "count": 37,
+        "frequency": 0.67
+      },
+      {
+        "skill": "python",
+        "count": 36,
+        "frequency": 0.65
+      },
+      {
+        "skill": "aws",
+        "count": 36,
+        "frequency": 0.65
+      },
+      {
+        "skill": "html",
+        "count": 36,
+        "frequency": 0.65
+      },
+      {
+        "skill": "java",
+        "count": 36,
+        "frequency": 0.65
+      },
+      {
+        "skill": "qa",
+        "count": 35,
+        "frequency": 0.64
+      },
+      {
+        "skill": "shell",
+        "count": 35,
+        "frequency": 0.64
+      },
+      {
+        "skill": "mysql",
+        "count": 35,
+        "frequency": 0.64
+      },
+      {
+        "skill": "windows",
+        "count": 35,
+        "frequency": 0.64
+      },
+      {
+        "skill": "less",
+        "count": 34,
+        "frequency": 0.62
+      },
+      {
+        "skill": "linux",
+        "count": 34,
+        "frequency": 0.62
+      },
+      {
+        "skill": "sql server",
+        "count": 19,
+        "frequency": 0.35
+      },
+      {
+        "skill": "oracle",
+        "count": 19,
+        "frequency": 0.35
+      },
+      {
+        "skill": "jquery",
+        "count": 19,
+        "frequency": 0.35
+      },
+      {
+        "skill": "javascript",
+        "count": 19,
+        "frequency": 0.35
+      },
+      {
+        "skill": "teams",
+        "count": 19,
+        "frequency": 0.35
+      },
+      {
+        "skill": "ec2",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "azure",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "matlab",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "css",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "pl/sql",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "git",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "bitbucket",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "safe",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "jenkins",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "ci/cd",
+        "count": 18,
+        "frequency": 0.33
+      },
+      {
+        "skill": "cloudformation",
+        "count": 17,
+        "frequency": 0.31
+      },
+      {
+        "skill": "writing",
+        "count": 17,
+        "frequency": 0.31
+      },
+      {
+        "skill": "lambda",
+        "count": 17,
+        "frequency": 0.31
+      },
+      {
+        "skill": "puppet",
+        "count": 17,
+        "frequency": 0.31
+      }
+    ],
+    "Network Security Engineer": [
+      {
+        "skill": "firewall",
+        "count": 25,
+        "frequency": 1.0
+      },
+      {
+        "skill": "switching",
+        "count": 20,
+        "frequency": 0.8
+      },
+      {
+        "skill": "lan",
+        "count": 20,
+        "frequency": 0.8
+      },
+      {
+        "skill": "vpn",
+        "count": 20,
+        "frequency": 0.8
+      },
+      {
+        "skill": "network security",
+        "count": 20,
+        "frequency": 0.8
+      },
+      {
+        "skill": "cisco",
+        "count": 20,
+        "frequency": 0.8
+      },
+      {
+        "skill": "routing",
+        "count": 20,
+        "frequency": 0.8
+      },
+      {
+        "skill": "ssl",
+        "count": 15,
+        "frequency": 0.6
+      },
+      {
+        "skill": "wan",
+        "count": 15,
+        "frequency": 0.6
+      },
+      {
+        "skill": "less",
+        "count": 10,
+        "frequency": 0.4
+      },
+      {
+        "skill": "problem solving",
+        "count": 10,
+        "frequency": 0.4
+      },
+      {
+        "skill": "dns",
+        "count": 10,
+        "frequency": 0.4
+      },
+      {
+        "skill": "juniper",
+        "count": 10,
+        "frequency": 0.4
+      },
+      {
+        "skill": "dhcp",
+        "count": 10,
+        "frequency": 0.4
+      },
+      {
+        "skill": "accounting",
+        "count": 10,
+        "frequency": 0.4
+      },
+      {
+        "skill": "communication",
+        "count": 10,
+        "frequency": 0.4
+      },
+      {
+        "skill": "writing",
+        "count": 10,
+        "frequency": 0.4
+      },
+      {
+        "skill": "ios",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "ccna",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "sem",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "ccnp",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "creativity",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "interpersonal skills",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "english",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "network administration",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "analytical skills",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "ids",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "siem",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "ips",
+        "count": 5,
+        "frequency": 0.2
+      },
+      {
+        "skill": "python",
+        "count": 5,
+        "frequency": 0.2
+      }
+    ],
+    "PMO": [
+      {
+        "skill": "training",
+        "count": 30,
+        "frequency": 1.0
+      },
+      {
+        "skill": "project management",
+        "count": 30,
+        "frequency": 1.0
+      },
+      {
+        "skill": "teams",
+        "count": 20,
+        "frequency": 0.67
+      },
+      {
+        "skill": "excel",
+        "count": 20,
+        "frequency": 0.67
+      },
+      {
+        "skill": "communication",
+        "count": 20,
+        "frequency": 0.67
+      },
+      {
+        "skill": "compliance",
+        "count": 20,
+        "frequency": 0.67
+      },
+      {
+        "skill": "leadership",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "organizational skills",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "decision making",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "budgeting",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "multitasking",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "forecasting",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "ms office",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "risk management",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "collaboration",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "strategic thinking",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "time management",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "auditing",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "analytical skills",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "sap",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "go",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "sharepoint",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "powerpoint",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "microsoft office",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "english",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "ms project",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "hindi",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "word",
+        "count": 10,
+        "frequency": 0.33
+      },
+      {
+        "skill": "confluence",
+        "count": 10,
+        "frequency": 0.33
+      }
+    ],
+    "Database": [
+      {
+        "skill": "windows",
+        "count": 27,
+        "frequency": 0.82
+      },
+      {
+        "skill": "sql",
+        "count": 27,
+        "frequency": 0.82
+      },
+      {
+        "skill": "oracle",
+        "count": 27,
+        "frequency": 0.82
+      },
+      {
+        "skill": "linux",
+        "count": 24,
+        "frequency": 0.73
+      },
+      {
+        "skill": "sql server",
+        "count": 18,
+        "frequency": 0.55
+      },
+      {
+        "skill": "windows server",
+        "count": 18,
+        "frequency": 0.55
+      },
+      {
+        "skill": "shell",
+        "count": 12,
+        "frequency": 0.36
+      },
+      {
+        "skill": "postgresql",
+        "count": 9,
+        "frequency": 0.27
+      },
+      {
+        "skill": "teams",
+        "count": 9,
+        "frequency": 0.27
+      },
+      {
+        "skill": "less",
+        "count": 9,
+        "frequency": 0.27
+      },
+      {
+        "skill": "writing",
+        "count": 9,
+        "frequency": 0.27
+      },
+      {
+        "skill": "communication",
+        "count": 6,
+        "frequency": 0.18
+      },
+      {
+        "skill": "mongodb",
+        "count": 6,
+        "frequency": 0.18
+      },
+      {
+        "skill": "jira",
+        "count": 6,
+        "frequency": 0.18
+      },
+      {
+        "skill": "statistics",
+        "count": 6,
+        "frequency": 0.18
+      },
+      {
+        "skill": "training",
+        "count": 6,
+        "frequency": 0.18
+      },
+      {
+        "skill": "clustering",
+        "count": 6,
+        "frequency": 0.18
+      },
+      {
+        "skill": "mysql",
+        "count": 6,
+        "frequency": 0.18
+      },
+      {
+        "skill": "unix",
+        "count": 6,
+        "frequency": 0.18
+      }
+    ],
+    "Hadoop": [
+      {
+        "skill": "hive",
+        "count": 42,
+        "frequency": 1.0
+      },
+      {
+        "skill": "hadoop",
+        "count": 42,
+        "frequency": 1.0
+      },
+      {
+        "skill": "spark",
+        "count": 42,
+        "frequency": 1.0
+      },
+      {
+        "skill": "scala",
+        "count": 42,
+        "frequency": 1.0
+      },
+      {
+        "skill": "windows",
+        "count": 36,
+        "frequency": 0.86
+      },
+      {
+        "skill": "java",
+        "count": 30,
+        "frequency": 0.71
+      },
+      {
+        "skill": "pig",
+        "count": 30,
+        "frequency": 0.71
+      },
+      {
+        "skill": "sql",
+        "count": 30,
+        "frequency": 0.71
+      },
+      {
+        "skill": "oracle",
+        "count": 30,
+        "frequency": 0.71
+      },
+      {
+        "skill": "python",
+        "count": 24,
+        "frequency": 0.57
+      },
+      {
+        "skill": "apache",
+        "count": 24,
+        "frequency": 0.57
+      },
+      {
+        "skill": "writing",
+        "count": 24,
+        "frequency": 0.57
+      },
+      {
+        "skill": "hbase",
+        "count": 24,
+        "frequency": 0.57
+      },
+      {
+        "skill": "shell",
+        "count": 24,
+        "frequency": 0.57
+      },
+      {
+        "skill": "linux",
+        "count": 24,
+        "frequency": 0.57
+      },
+      {
+        "skill": "mysql",
+        "count": 24,
+        "frequency": 0.57
+      },
+      {
+        "skill": "unix",
+        "count": 24,
+        "frequency": 0.57
+      },
+      {
+        "skill": "unit testing",
+        "count": 12,
+        "frequency": 0.29
+      },
+      {
+        "skill": "github",
+        "count": 12,
+        "frequency": 0.29
+      },
+      {
+        "skill": "aws",
+        "count": 12,
+        "frequency": 0.29
+      },
+      {
+        "skill": "svn",
+        "count": 12,
+        "frequency": 0.29
+      },
+      {
+        "skill": "tableau",
+        "count": 12,
+        "frequency": 0.29
+      },
+      {
+        "skill": "integration testing",
+        "count": 12,
+        "frequency": 0.29
+      },
+      {
+        "skill": "etl",
+        "count": 12,
+        "frequency": 0.29
+      },
+      {
+        "skill": "html",
+        "count": 12,
+        "frequency": 0.29
+      }
+    ],
+    "ETL Developer": [
+      {
+        "skill": "etl",
+        "count": 40,
+        "frequency": 1.0
+      },
+      {
+        "skill": "sql",
+        "count": 40,
+        "frequency": 1.0
+      },
+      {
+        "skill": "unix",
+        "count": 32,
+        "frequency": 0.8
+      },
+      {
+        "skill": "writing",
+        "count": 32,
+        "frequency": 0.8
+      },
+      {
+        "skill": "unit testing",
+        "count": 24,
+        "frequency": 0.6
+      },
+      {
+        "skill": "sql server",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "agile",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "jira",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "oracle",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "communication",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "english",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "shell",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "integration testing",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "data warehousing",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "windows",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "time management",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "redshift",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "s3",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "mysql",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "problem solving",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "aws",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "teams",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "less",
+        "count": 8,
+        "frequency": 0.2
+      }
+    ],
+    "DotNet Developer": [
+      {
+        "skill": "sql server",
+        "count": 24,
+        "frequency": 0.86
+      },
+      {
+        "skill": "sql",
+        "count": 24,
+        "frequency": 0.86
+      },
+      {
+        "skill": "html",
+        "count": 20,
+        "frequency": 0.71
+      },
+      {
+        "skill": "javascript",
+        "count": 20,
+        "frequency": 0.71
+      },
+      {
+        "skill": "asp.net",
+        "count": 20,
+        "frequency": 0.71
+      },
+      {
+        "skill": ".net",
+        "count": 20,
+        "frequency": 0.71
+      },
+      {
+        "skill": "jquery",
+        "count": 16,
+        "frequency": 0.57
+      },
+      {
+        "skill": "css",
+        "count": 16,
+        "frequency": 0.57
+      },
+      {
+        "skill": "less",
+        "count": 16,
+        "frequency": 0.57
+      },
+      {
+        "skill": "bootstrap",
+        "count": 12,
+        "frequency": 0.43
+      },
+      {
+        "skill": "crm",
+        "count": 8,
+        "frequency": 0.29
+      },
+      {
+        "skill": "presentation",
+        "count": 8,
+        "frequency": 0.29
+      },
+      {
+        "skill": "unit testing",
+        "count": 8,
+        "frequency": 0.29
+      }
+    ],
+    "Blockchain": [
+      {
+        "skill": "blockchain",
+        "count": 40,
+        "frequency": 1.0
+      },
+      {
+        "skill": "ethereum",
+        "count": 32,
+        "frequency": 0.8
+      },
+      {
+        "skill": "solidity",
+        "count": 24,
+        "frequency": 0.6
+      },
+      {
+        "skill": "mysql",
+        "count": 24,
+        "frequency": 0.6
+      },
+      {
+        "skill": "java",
+        "count": 24,
+        "frequency": 0.6
+      },
+      {
+        "skill": "smart contracts",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "hindi",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "writing",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "nodejs",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "angular",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "postgresql",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "jquery",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "react",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "express",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "php",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "crm",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "hyperledger",
+        "count": 16,
+        "frequency": 0.4
+      },
+      {
+        "skill": "english",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "mongodb",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "golang",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "node.js",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "problem solving",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "aws",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "docker",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "python",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "salesforce",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "django",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "ubuntu",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "training",
+        "count": 8,
+        "frequency": 0.2
+      },
+      {
+        "skill": "oracle",
+        "count": 8,
+        "frequency": 0.2
+      }
+    ],
+    "Testing": [
+      {
+        "skill": "windows",
+        "count": 30,
+        "frequency": 0.43
+      },
+      {
+        "skill": "java",
+        "count": 20,
+        "frequency": 0.29
+      },
+      {
+        "skill": "manual testing",
+        "count": 20,
+        "frequency": 0.29
+      },
+      {
+        "skill": "android",
+        "count": 20,
+        "frequency": 0.29
+      },
+      {
+        "skill": "excel",
+        "count": 20,
+        "frequency": 0.29
+      },
+      {
+        "skill": "word",
+        "count": 20,
+        "frequency": 0.29
+      },
+      {
+        "skill": "transformer",
+        "count": 20,
+        "frequency": 0.29
+      },
+      {
+        "skill": "research",
+        "count": 20,
+        "frequency": 0.29
+      },
+      {
+        "skill": "assembly",
+        "count": 20,
+        "frequency": 0.29
+      }
+    ]
+  },
+  "domain_skills": {
+    "databases": [
+      "cassandra",
+      "elasticsearch",
+      "hbase",
+      "mariadb",
+      "mongodb",
+      "mssql",
+      "mysql",
+      "oracle",
+      "postgresql",
+      "redshift",
+      "sql server",
+      "sqlite"
+    ],
+    "programming_languages": [
+      "assembly",
+      "css",
+      "go",
+      "golang",
+      "html",
+      "java",
+      "javascript",
+      "less",
+      "matlab",
+      "php",
+      "pl/sql",
+      "python",
+      "sass",
+      "scala",
+      "shell",
+      "solidity",
+      "sql",
+      "swift",
+      "t-sql",
+      "typescript",
+      "vb.net",
+      "visual basic"
+    ],
+    "business_tools": [
+      "excel",
+      "gmail",
+      "microsoft office",
+      "ms office",
+      "outlook",
+      "powerpoint",
+      "sage",
+      "salesforce",
+      "sap",
+      "sharepoint",
+      "teams",
+      "word"
+    ],
+    "blockchain": [
+      "blockchain",
+      "ethereum",
+      "hyperledger",
+      "smart contracts"
+    ],
+    "cybersecurity": [
+      "compliance",
+      "encryption",
+      "firewall",
+      "ids",
+      "information security",
+      "ips",
+      "ldap",
+      "network security",
+      "risk assessment",
+      "security audit",
+      "siem",
+      "ssl",
+      "sso"
+    ],
+    "soft_skills": [
+      "adaptability",
+      "analytical skills",
+      "client relations",
+      "collaboration",
+      "communication",
+      "conflict resolution",
+      "creativity",
+      "critical thinking",
+      "customer service",
+      "decision making",
+      "innovation",
+      "interpersonal skills",
+      "leadership",
+      "mentoring",
+      "multitasking",
+      "negotiation",
+      "organizational skills",
+      "presentation",
+      "problem solving",
+      "public speaking",
+      "research",
+      "self-motivated",
+      "strategic thinking",
+      "teamwork",
+      "time management",
+      "training",
+      "writing"
+    ],
+    "operating_systems": [
+      "centos",
+      "debian",
+      "fedora",
+      "kali linux",
+      "linux",
+      "red hat",
+      "rhel",
+      "ubuntu",
+      "unix",
+      "windows",
+      "windows server"
+    ],
+    "testing_qa": [
+      "api testing",
+      "bdd",
+      "cucumber",
+      "integration testing",
+      "manual testing",
+      "performance testing",
+      "postman",
+      "qa",
+      "regression testing",
+      "selenium",
+      "tdd",
+      "test automation",
+      "test driven development",
+      "testng",
+      "unit testing"
+    ],
+    "data_ml_ai": [
+      "artificial intelligence",
+      "chatbot",
+      "classification",
+      "clustering",
+      "computer vision",
+      "d3.js",
+      "data analysis",
+      "data mining",
+      "data pipeline",
+      "data science",
+      "data visualization",
+      "data warehousing",
+      "decision trees",
+      "deep learning",
+      "dimensionality reduction",
+      "etl",
+      "forecasting",
+      "hadoop",
+      "hive",
+      "jupyter",
+      "kafka",
+      "keras",
+      "knn",
+      "llm",
+      "lstm",
+      "machine learning",
+      "matplotlib",
+      "natural language processing",
+      "neural networks",
+      "nlp",
+      "nltk",
+      "numpy",
+      "opencv",
+      "pandas",
+      "pig",
+      "plotly",
+      "power bi",
+      "pyspark",
+      "random forest",
+      "regression",
+      "rnn",
+      "scikit-learn",
+      "scipy",
+      "seaborn",
+      "sklearn",
+      "spacy",
+      "spark",
+      "statistics",
+      "svm",
+      "tableau",
+      "tensorflow",
+      "time series",
+      "transformer",
+      "transformers"
+    ],
+    "marketing_skills": [
+      "crm",
+      "facebook",
+      "linkedin",
+      "market research",
+      "sem",
+      "social media",
+      "twitter"
+    ],
+    "mobile": [
+      "android",
+      "android studio",
+      "ionic",
+      "ios",
+      "mobile development",
+      "xcode"
+    ],
+    "web_frameworks": [
+      ".net",
+      "angular",
+      "asp.net",
+      "bootstrap",
+      "codeigniter",
+      "django",
+      "express",
+      "flask",
+      "jquery",
+      "laravel",
+      "node.js",
+      "nodejs",
+      "react",
+      "rest api",
+      "restful",
+      "soap",
+      "spring",
+      "spring boot"
+    ],
+    "finance_accounting": [
+      "accounting",
+      "auditing",
+      "budgeting",
+      "payroll"
+    ],
+    "languages": [
+      "english",
+      "french",
+      "german",
+      "hindi",
+      "swedish",
+      "thai"
+    ],
+    "project_management": [
+      "agile",
+      "backlog grooming",
+      "confluence",
+      "jira",
+      "kanban",
+      "lean",
+      "ms project",
+      "prince2",
+      "project management",
+      "risk management",
+      "safe",
+      "scrum",
+      "sprint planning",
+      "waterfall"
+    ],
+    "engineering": [
+      "3d printing",
+      "autocad",
+      "cad",
+      "catia",
+      "cnc",
+      "electrical design",
+      "hmi",
+      "labview",
+      "mechanical design",
+      "pcb design",
+      "plc",
+      "quality assurance",
+      "quality control",
+      "robotics",
+      "scada",
+      "six sigma",
+      "solidworks"
+    ],
+    "networking": [
+      "ccna",
+      "ccnp",
+      "cisco",
+      "dhcp",
+      "dns",
+      "juniper",
+      "lan",
+      "network administration",
+      "routing",
+      "switching",
+      "tcp/ip",
+      "vpn",
+      "wan"
+    ],
+    "design_tools": [
+      "accessibility",
+      "adobe illustrator",
+      "adobe photoshop",
+      "prototyping",
+      "user interface"
+    ],
+    "healthcare": [
+      "clinical research",
+      "nursing",
+      "patient care",
+      "pharmacy",
+      "triage"
+    ],
+    "cloud_devops": [
+      "ansible",
+      "apache",
+      "aws",
+      "azure",
+      "ci/cd",
+      "cloudformation",
+      "docker",
+      "ec2",
+      "gcp",
+      "google cloud",
+      "jenkins",
+      "lambda",
+      "puppet",
+      "s3"
+    ],
+    "version_control": [
+      "bitbucket",
+      "git",
+      "github",
+      "svn",
+      "version control"
+    ]
+  },
+  "total_resumes": 962,
+  "total_skills": 284,
+  "categories": {
+    "Data Science": 40,
+    "HR": 44,
+    "Advocate": 20,
+    "Arts": 36,
+    "Web Designing": 45,
+    "Mechanical Engineer": 40,
+    "Sales": 40,
+    "Health and fitness": 30,
+    "Civil Engineer": 24,
+    "Java Developer": 84,
+    "Business Analyst": 28,
+    "SAP Developer": 24,
+    "Automation Testing": 26,
+    "Electrical Engineering": 30,
+    "Operations Manager": 40,
+    "Python Developer": 48,
+    "DevOps Engineer": 55,
+    "Network Security Engineer": 25,
+    "PMO": 30,
+    "Database": 33,
+    "Hadoop": 42,
+    "ETL Developer": 40,
+    "DotNet Developer": 28,
+    "Blockchain": 40,
+    "Testing": 70
+  }
+}
