@@ -11,3 +11,4 @@ reference.docx
 __pycache__/
 *.env
 .env
+AI Resume Analyzer Interface/node_modules/
